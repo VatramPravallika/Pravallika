@@ -13,7 +13,7 @@ public class TopicAPI {
 	public static void main(String[] args) {
 		Log.info("started");
 		SpringApplication.run(TopicAPI.class, args);
-		Log.info("ended");
+		Log.info("ended Here :)");
 	}
 
 }
